@@ -2,7 +2,8 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-Flamingo, Müller, Mileti, Frey, Eisenring
+Flamingo
+Müller, Mileti, Frey, Eisenring
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
