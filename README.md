@@ -14,7 +14,7 @@ Flamingo, Müller, Mileti, Frey, Eisenring
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 
 ### 1.2 User Stories
 
