@@ -1,4 +1,4 @@
-# Projekt-Dokumentation
+# de ben und de jan hend sich ganz fest gern
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
@@ -52,7 +52,7 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  03.11|           |zu lernende Wörter müssen eingegeben werden können.|               |
+| 1.A  |  03.11|           |Zu lernende Wörter müssen eingegeben werden können.|               |
 | 2.A  |  03.11|           |Wörter sollen abgefragt werden.|               |
 | 3.A  |  03.11|           |Fehler(Formatfehler) sollen erkannt und angezeigt werden.    |               |
 | 4.A  |  10.11|           |Falsch eingegebene Wörter sollen konkret angezeigt werden.            |               |
