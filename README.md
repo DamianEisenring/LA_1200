@@ -1,4 +1,4 @@
-# de ben und de jan hend sich ganz fest gern
+# Projekt
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
