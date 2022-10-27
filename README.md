@@ -16,31 +16,34 @@ Müller, Mileti, Frey, Eisenring
 
 ### 1.1 Ihr Projekt
 
-Wir programmieren ein Programm in C#, mit welchem man Vokabeln lernen kann.
+Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |muss |Funktional|Als User möchte ich Wörter eingeben können, dass ich die Wörter die ich Lernen will abfragen kann.|
-| 2  |  muss | Funktional | Als User möchte ich meine Wörter abfragen können, dass|
+| 2  |  muss | Funktional | Als User möchte ich meine Wörter abfragen können|
 | 3   |  muss | Funktional | Als Computer möchte ich Fehler(Formatfehler) erkennen können, damit ich es anzeigen kann|
 | 4    | muss| Funktional  |Als Benutzer möchte ich die falsch eingegebenen Wörter kennen, dass ich sie nochmals lernen kann.|
 | 5 |kann |Qualität      | Als Benutzer möchte ich die Wörter mehrmalls lernen können, dass ich mir es besser merken kann.                                |
 | 6 |kann|Qualität|Als ein Benutzer möchte ich Wissen wie viele Wörter ich falsch hatte, dass ich weiss wie viel ich noch zu Lernen habe                 |
-| 7  | kann | Qualität | Als ein Benutzer möchte ich Wissen welche Wörter ich falsch hatte, dass ich weiss welche ich noch repitieren muss.|
-| ...  |                 |      |                                    |
+| 7  | kann | Qualität | Als Benutzer möchte ich Wissen welche Wörter ich falsch hatte, dass ich weiss welche ich noch repitieren muss.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+|1.1| User will die Wörter die er Lernen will eingeben|Gibt alle Wörter ein|Speichert die Wörter und Fragt sie ab. |
+|2.1|User will Wörter eingebn|Gibt Wörter ein|Fragt die Wörter ab.|
+|3.1|User will wörter eingeben|gibt die ziffer "1" ein|Programm gibt eine Fehlermeldung aus|
+|4.1|User ist am Wörter lernen|Gibt ein Wort falsch ein|Programm gibt eine Meldung aus, dass das Wort falsch war und dass das Wort erneut abgefragt wird|
+|5.1|User hat alle Wörter bereits durchgelernt|Benutzer gibt ein, dass er die Wörter erneut lernen will|Programm fragt die eingegebenen Wörter erneut ab|
+|6.1|User ist am Wörter lernen|Gibt weiterhin Wörter ein |bekommt einen Anzeige, wie viele Wörter er noch lernen muss|
+|7.1|User hat alle wörter gelernt|keine|Zeigt alle Wörter an, die er in dem durchlauf falsch hatte|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
