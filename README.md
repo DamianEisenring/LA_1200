@@ -52,12 +52,12 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  03.11|   Jan Frey     |Zu lernende Wörter müssen eingegeben werden können.|               |
-| 2.A  |  03.11|  Ben Müller         |Wörter sollen abgefragt werden.|               |
-| 3.A  |  03.11|   Gian-Marco Mileti        |Fehler(Formatfehler) sollen erkannt und angezeigt werden.    |               |
-| 4.A  |  10.11|  Damian Eisenring         |Falsch eingegebene Wörter sollen konkret angezeigt werden.            |               |
-| 5.A  |  10.11| Jan Frey         |Die Wörter sollen mehrmals gelernt werden können.        |               |
-| 6.A  |  10.11|  Damian Eisenring  |Eine Anzeige für  die Anzahl falscher Wörter.    |               |
+| 1.A  |  03.11|   Jan Frey     |Zu lernende Wörter müssen eingegeben werden können.|      30min        |
+| 2.A  |  03.11|  Ben Müller         |Wörter sollen abgefragt werden.|     45min          |
+| 3.A  |  03.11|   Gian-Marco Mileti        |Fehler(Formatfehler) sollen erkannt und angezeigt werden.    |     30min          |
+| 4.A  |  10.11|  Damian Eisenring         |Falsch eingegebene Wörter sollen konkret angezeigt werden.            |     60min          |
+| 5.A  |  10.11| Jan Frey         |Die Wörter sollen mehrmals gelernt werden können.        |      45min         |
+| 6.A  |  10.11|  Damian Eisenring  |Eine Anzeige für die Anzahl falscher Wörter.    |    60min         |
 
 Total: 
 
