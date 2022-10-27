@@ -23,12 +23,11 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |muss |Funktional|Als User möchte ich Wörter eingeben können, dass ich die Wörter die ich Lernen will abfragen kann.|
-| 2  |  muss | Funktional | Als User möchte ich meine Wörter abfragen können|
+| 2    |  muss | Funktional | Als User möchte ich meine Wörter abfragen können|
 | 3   |  muss | Funktional | Als Computer möchte ich Fehler(Formatfehler) erkennen können, damit ich es anzeigen kann|
 | 4    | muss| Funktional  |Als Benutzer möchte ich die falsch eingegebenen Wörter kennen, dass ich sie nochmals lernen kann.|
 | 5 |kann |Qualität      | Als Benutzer möchte ich die Wörter mehrmalls lernen können, dass ich mir es besser merken kann.                                |
 | 6 |kann|Qualität|Als ein Benutzer möchte ich Wissen wie viele Wörter ich falsch hatte, dass ich weiss wie viel ich noch zu Lernen habe                 |
-| 7  | kann | Qualität | Als Benutzer möchte ich Wissen welche Wörter ich falsch hatte, dass ich weiss welche ich noch repitieren muss.|
 
 
 
@@ -36,7 +35,7 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|1.1| User will die Wörter die er Lernen will eingeben|Gibt alle Wörter ein|Speichert die Wörter und Fragt sie ab. |
+|1.1|User will die Wörter die er Lernen will eingeben|Gibt alle Wörter ein|Speichert die Wörter und Fragt sie ab. |
 |2.1|User will Wörter eingebn|Gibt Wörter ein|Fragt die Wörter ab.|
 |3.1|User will wörter eingeben|gibt die ziffer "1" ein|Programm gibt eine Fehlermeldung aus|
 |4.1|User ist am Wörter lernen|Gibt ein Wort falsch ein|Programm gibt eine Meldung aus, dass das Wort falsch war und dass das Wort erneut abgefragt wird|
@@ -53,8 +52,12 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  03.11|           |zu lernende Wörter müssen eingegeben werden können.|               |
+| 2.A  |  03.11|           |Wörter sollen abgefragt werden.|               |
+| 3.A  |  03.11|           |Fehler(Formatfehler) sollen erkannt und angezeigt werden.    |               |
+| 4.A  |  10.11|           |Falsch eingegebene Wörter sollen konkret angezeigt werden.            |               |
+| 5.A  |  10.11|           |Die Wörter sollen mehrmals gelernt werden können.        |               |
+| 6.A  |  10.11|           |Eine Anzeige für  die Anzahl falscher Wörter.    |               |
 
 Total: 
 
