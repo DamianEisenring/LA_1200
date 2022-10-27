@@ -16,7 +16,7 @@ Müller, Mileti, Frey, Eisenring
 
 ### 1.1 Ihr Projekt
 
-Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
+Wir programmieren ein Programm in C#, mit welchem man Vokabeln lernen kann.
 
 ### 1.2 User Stories
 
