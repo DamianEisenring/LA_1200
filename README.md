@@ -1,14 +1,12 @@
 # Projekt
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Flamingo
 
 Müller, Mileti, Frey, Eisenring
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   |                                                              |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -29,8 +27,6 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 | 5 |kann |Qualität      | Als Benutzer möchte ich die Wörter mehrmalls lernen können, dass ich mir es besser merken kann.                                |
 | 6 |kann|Qualität|Als ein Benutzer möchte ich Wissen wie viele Wörter ich falsch hatte, dass ich weiss wie viel ich noch zu Lernen habe                 |
 
-
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -41,8 +37,6 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 |4.1|User ist am Wörter lernen|Gibt ein Wort falsch ein|Programm gibt eine Meldung aus, dass das Wort falsch war und dass das Wort erneut abgefragt wird|
 |5.1|User hat alle Wörter bereits durchgelernt|Benutzer gibt ein, dass er die Wörter erneut lernen will|Programm fragt die eingegebenen Wörter erneut ab|
 |6.1|User ist am Wörter lernen|Gibt weiterhin Wörter ein |bekommt einen Anzeige, wie viele Wörter er noch lernen muss|
-|7.1|User hat alle wörter gelernt|keine|Zeigt alle Wörter an, die er in dem durchlauf falsch hatte|
-
 
 ### 1.4 Diagramme
 
