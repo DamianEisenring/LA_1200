@@ -12,13 +12,15 @@ namespace Vokabeltrainer
         {
           int i = 0;
             int l = 0; 
-            
+           List<string> FslWörter = new List<string>();
+
             try
             {
                 if (!File.Exists("users.txt"))
                     File.Create("users.txt").Close();
 
                 string[][] users = loadData("users.txt");
+                
 
                 foreach (var user in users)
                 {
@@ -41,11 +43,23 @@ namespace Vokabeltrainer
                         Console.ForegroundColor = ConsoleColor.White;                    
                         Console.ReadKey();
                         l++;
+                        FslWörter.Add(user[1]);
+
                     }
                     
                 }
                 Console.WriteLine("Richtige: "+ i + " Falsche: "+ l);
                 Console.ReadKey();
+
+
+
+                foreach(var falsch in FslWörter)
+                {
+                    Console.WriteLine(falsch);                    
+                }
+                Console.ReadKey();
+
+
 
                 static string[][] loadData(string path)
                 {
