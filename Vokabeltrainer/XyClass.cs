@@ -18,8 +18,8 @@ namespace Vokabeltrainer
             foreach (var user in users)
             {
                 Console.WriteLine("-----");
-                Console.WriteLine("Vorname: " + user[0]);
-                Console.WriteLine("Nachname: " + user[1]);
+                Console.WriteLine("Deutscheswort: " + user[0]);
+                Console.WriteLine("Fremdwort: " + user[1]);
                 Console.WriteLine("-----");
             }
 
