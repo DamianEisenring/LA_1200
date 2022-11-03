@@ -10,37 +10,63 @@ namespace Vokabeltrainer
     {
         public static void Wörterabfrage()
         {
-             if (!File.Exists("users.txt"))
-                File.Create("users.txt").Close();
-
-            string[][] users = loadData("users.txt");
-
-            foreach (var user in users)
+          int i = 0;
+            int l = 0; 
+            
+            try
             {
-                Console.WriteLine("-----");
-                Console.WriteLine("Deutscheswort: " + user[0]);
-                Console.WriteLine("Fremdwort: " + user[1]);
-                Console.WriteLine("-----");
+                if (!File.Exists("users.txt"))
+                    File.Create("users.txt").Close();
+
+                string[][] users = loadData("users.txt");
+
+                foreach (var user in users)
+                {
+                    Console.WriteLine("-----");
+                    Console.WriteLine("Deutscheswort: " + user[0]);
+                    Console.Write("Fremdwort: ");
+                    string eingabe = Console.ReadLine();
+                    if (eingabe == user[1])
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("Richtig");
+                        Console.ForegroundColor = ConsoleColor.White;                        
+                        Console.ReadKey();
+                        i++;
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Falsch");
+                        Console.ForegroundColor = ConsoleColor.White;                    
+                        Console.ReadKey();
+                        l++;
+                    }
+                    
+                }
+                Console.WriteLine("Richtige: "+ i + " Falsche: "+ l);
+                Console.ReadKey();
+
+                static string[][] loadData(string path)
+                {
+                    string[] data = File.ReadAllLines(path);
+
+                    string[][] users = new string[data.Length][];
+
+                    for (int i = 0; i < data.Length; i++)
+                    {
+                        users[i] = data[i].Split(';');
+                    }
+
+                    return users;
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Error");
             }
 
-            while (true)
-            {
-
-            }
         }
 
-        static string[][] loadData(string path)
-        {
-            string[] data = File.ReadAllLines(path);
-
-            string[][] users = new string[data.Length][];
-
-            for (int i = 0; i < data.Length; i++)
-            {
-                users[i] = data[i].Split(';');
-            }
-
-            return users;
-        }
     }
 }
