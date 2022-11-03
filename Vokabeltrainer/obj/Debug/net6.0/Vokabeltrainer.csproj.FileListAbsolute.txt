@@ -1,0 +1,15 @@
+C:\Users\damia\source\repos\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.exe
+C:\Users\damia\source\repos\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.deps.json
+C:\Users\damia\source\repos\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.runtimeconfig.json
+C:\Users\damia\source\repos\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.dll
+C:\Users\damia\source\repos\Vokabeltrainer\bin\Debug\net6.0\Vokabeltrainer.pdb
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.csproj.AssemblyReference.cache
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.AssemblyInfoInputs.cache
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.AssemblyInfo.cs
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.dll
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\refint\Vokabeltrainer.dll
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.pdb
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\Vokabeltrainer.genruntimeconfig.cache
+C:\Users\damia\source\repos\Vokabeltrainer\obj\Debug\net6.0\ref\Vokabeltrainer.dll
