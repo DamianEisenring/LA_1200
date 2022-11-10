@@ -11,7 +11,7 @@ namespace Vokabeltrainer
         public static void Ade()
         {
             Console.Clear();
-            Console.WriteLine("Schönen Tag noch");
+            Console.WriteLine("Vielen dank fürs benutzen unseres Vokabeltrainers");
             Console.ReadKey();
             Environment.Exit(0);
         }
