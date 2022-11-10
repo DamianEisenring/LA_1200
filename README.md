@@ -67,9 +67,12 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 1.A  |  03.11     |   Jan Frey        |    45min        |       60min            |
+| 2.A |    03.11   |  Ben Müller         |      60min         |         75min         |
+| 3.A | 03.11 | Gian-Marco Mileti | 45min | 45min|
+|4.A|10.11|Damian Eisenring|90min|60min|
+|5.A|10.11|Jan Frey|60min|45min|
+|6.A|10.11|Damian Eisenring|90min|75min|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
