@@ -39,8 +39,8 @@ Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
 |6.1|User ist am Wörter lernen|Gibt weiterhin Wörter ein |bekommt einen Anzeige, wie viele Wörter er noch lernen muss|
 
 ### 1.4 Diagramme
+![pap](https://user-images.githubusercontent.com/111043950/201072346-345bd0a3-9232-48e0-a1f2-2c1266d10b3b.png)
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
