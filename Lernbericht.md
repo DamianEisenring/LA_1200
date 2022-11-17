@@ -6,7 +6,7 @@ Eisenring, Mileti, Frey, Müller
 
 ## Einleitung
 
-In diesem Projekt haben wir einen Vokabeltrainer erstellt, in diesem können sie benutzerdefinierte Wörter eingeben und diese dann anschliessend lernen.
+In diesem Projekt haben wir einen Vokabeltrainer erstellt. In diesem können Sie benutzerdefinierte Wörter eingeben und diese dann anschliessend lernen.
 
 ## Was habe ich gelernt?
 
@@ -15,12 +15,12 @@ Wir haben in diesem Projekt gelernt, wie und wo wir Foreach Schleifen verwenden 
 ## Beschreibung
 
 Eine foreach Schleife ist eine Schleife, die vor allem bei Listen oder Arraylisten nützlich ist. Im Code-Fetzen sehen Sie, wie eine foreach Schleife aufgebaut ist.
-Die Schleife wird so lange wiederholt, bis es keine "Gegenstände" mehr in der Liste hat. Also zum Beispiel, bis es jeden Namen, die in einer Liste gespeichert sind, ausgegeben hat. 
-Man kann die foreach schleife auch genauer spezifizieren, wenn man etwas genauer ausgeben will, oder nur bestimmte teile einer Liste wiederholen will. 
-Dazu muss man aber die "Gegenstände" anders einspeichern.
+Die Schleife wird so lange wiederholt, bis es keine "Gegenstände" mehr in der Liste hat. Also zum Beispiel, bis es jeden Namen, der in einer Liste gespeichert sind, ausgegeben hat. 
+Man kann die foreach Schleife auch genauer spezifizieren, wenn man etwas genauer ausgeben möchte, oder nur bestimmte Teile einer Liste wiederholen will. 
+Dazu muss man die "Gegenstände" anders einspeichern.
 
-Dazu ein kleines Beispiel:
-Ich habe eine Liste, mit Deutschen Wörtern und deren Übersetzung ins Englische. Nun gebe ich mit der foreach schleife jedes Deutsche Wort der Liste aus, und frage den Benutzer nach der englischen Übersetzung. Wenn der Benutzer die Übersetzung korrekt eingibt, speichere ich diese als richtig, wenn der Benutzer die Übersetzung falsch eingibt, speichere ich sie als falsch. Jetzt kann ich in einem zweiten Schritt mit einer foreach Schleife nur alle falschen Wörter wiederholen.
+Hier ein kleines Beispiel:
+Ich habe eine Liste, mit Deutschen Wörtern und deren Übersetzung ins Englische. Nun gebe ich mit der foreach Schleife jedes Deutsche Wort der Liste aus, und frage den Benutzer nach der englischen Übersetzung. Wenn der Benutzer die Übersetzung korrekt eingibt, speichere ich diese als richtig, wenn der Benutzer die Übersetzung falsch eingibt, speichere ich sie als falsch. Jetzt kann ich in einem zweiten Schritt mit einer foreach Schleife nur alle falschen Wörter wiederholen.
 
 ```Csharp
   static void Main(string[] args)
@@ -49,12 +49,11 @@ Wir haben einem Laien erklärt, was eine Foreach Schleife ist und wie und wann s
 
 #### Was lief gut?
 
-In der Schule war es immer einfacher einander zu organisieren, somit waren wir dann auch immer produktiver und konnten somit auch mehr bereits in der Schule erreichen.
+In der Schule war es immer einfacher uns zu organisieren, somit waren wir dann auch immer produktiver und konnten somit auch mehr in der Schule erreichen.
 
 #### Was lief nicht gut?
 
-Im Homeschooling waren wir schlecht vorbereitet und hatten somit viel Zeit verloren uns zu organisieren, somit verloren wir viel Zeit in der Realisieren-Phase.
-
+Im Homeschooling waren wir schlecht vorbereitet und haben somit viel Zeit verloren um uns zu organisieren. Deswegen haben wir einen grossen Zeitverlust im Bereich Realisieren verloren.
 **VBV**:
 
-Nächstes Mal müssen wir uns vor dem Homeschooling besser organisieren, dass wir auch pünktlich alle im gleichen Anruf sind und beginnen können zu arbeiten.
+Nächstes Mal müssen wir uns vor dem Homeschooling besser organisieren, so dass wir viel weniger Zeit in die Oranisation und mehr in die Realisation stecken können. 
