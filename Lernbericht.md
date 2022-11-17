@@ -5,7 +5,7 @@ Eisenring, Mileti, Frey, Müller
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ich habe in diesem Projekt gelernt wie und wo ich Foreach Schleifen verwenden muss.
 
 ## Was habe ich gelernt?
 
