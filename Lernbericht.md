@@ -14,8 +14,6 @@ Wir haben in diesem Projekt gelernt wie und wo wir Foreach Schleifen verwenden m
 
 ## Beschreibung
 
-
-
 Eine foreach schleife ist eine Schleife, die vorallem bei Listen oder Arraylisten nützlich ist. Im Code-Fetzen sehen Sie, wie eine foreach schleife aufgebaut ist.
 Die schleife wird so lange wiederholt, bis es keine "Gegenstände" mehr in der Liste hat. Also zum Beispiel, bis es jeden Namen, die in einer Liste gespeichert sind, ausgegeben hat. 
 Man kann die foreach schleife auch genauer spezifiziern, wenn man etwas genauer ausgeben will, oder nur bestimmte teile einer Liste wiederholen will. 
@@ -24,6 +22,19 @@ Dazu muss man aber die "Gegenstände" anderst einspeichern.
 Dazu ein kleines Beispiel:
 Ich habe eine Liste, mit Deutschen Wörterm und deren übersetzung is Englische. Nun gebe ich mit der foreach schleife jedes Deutsche Wort der Liste aus, und frage den Benutzer nach der Englischen Übersetzung. Wenn der Benutzer die Übersetzung korrekt eingibt, speichere ich diese als richtig, wenn der Benutzer die Übersetzung falsch eingibt, speichere ich sie als falsch. Nun kann ich in einem zweiten Schritt mit einer foreach Schleife nur alle Falschen wörter wiederholen.
 
+```Csharp
+  static void Main(string[] args)
+        {
+            List<string> Name = new List<string>();
+            Name.Add("Gian-Marco Mileti");
+            Name.Add("Jan Frey");
+
+            foreach(var nameItem in Name)
+            {
+                Console.WriteLine(nameItem);
+            }
+        }
+```
 
 
 
