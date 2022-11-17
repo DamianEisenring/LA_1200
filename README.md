@@ -76,8 +76,12 @@ Wir habe uns entschieden alle User Stories zu machen.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  17.11     |   funktioniert      |  Jan Frey      |
+| 2.1  |  17.11     |   funktioniert      |  Ben Müller     |
+| 3.1  |  17.11     |   funktioniert      |  Gian-Marco Mileti      |
+| 4.1  |  17.11     |   funktioniert      |  Damian Eisenring     |
+| 5.1  |  17.11     |   funktioniert      |  Jan Frey     |
+| 6.1  |  17.11     |   funktioniert      |  Damian Eisenring    |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
