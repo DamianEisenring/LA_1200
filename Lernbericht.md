@@ -1,6 +1,7 @@
 # Lern-Bericht
 
 Flamingo
+
 Eisenring, Mileti, Frey, Müller
 
 ## Einleitung
