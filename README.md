@@ -6,7 +6,6 @@ Müller, Mileti, Frey, Eisenring
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |                                                              |
 | 17.11.2022      | 1.0.0   |Unser Code kann Vokabeln abfragen und speichern, welche falsch und richtig eingegeben wurden. Die Falschen Vokabeln werden erneut abgefragt, bis man alles richtig hatte.                                                             |
 
 ## 1 Informieren
