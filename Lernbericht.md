@@ -14,13 +14,22 @@ Wir haben in diesem Projekt gelernt wie und wo wir Foreach Schleifen verwenden m
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+```csharp 
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+    static void Main(string[] args)
+        {
+            List<string> Name = new List<string>();
+            Name.Add("Gian-Marco Mileti");
+            Name.Add("Jan Frey");
 
+            foreach(var nameItem in Name)
+            {
+                Console.WriteLine(nameItem);
+            }
+
+        }
+
+```
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
