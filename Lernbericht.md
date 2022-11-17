@@ -5,11 +5,11 @@ Eisenring, Mileti, Frey, Müller
 
 ## Einleitung
 
-Ich habe in diesem Projekt gelernt wie und wo ich Foreach Schleifen verwenden muss.
+In diesem Projekt haben wir einen Vokabeltrainer erstellt, in diesem können sie benutzerdefinierte Wörter eingeben und diese dann anschliessend lernen.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben in diesem Projekt gelernt wie und wo wir Foreach Schleifen verwenden müssen.
 
 ## Beschreibung
 
