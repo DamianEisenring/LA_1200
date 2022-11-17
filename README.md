@@ -83,8 +83,6 @@ Wir haben uns entschieden, alle User Storys zu machen.
 | 5.1  |  17.11     |   funktioniert      |  Jan Frey     |
 | 6.1  |  17.11     |   funktioniert      |  Damian Eisenring    |
 
-###Fazit
-
 Wir konnten alles so Programmieren, wie wir es wollten und das Programm funktioniert mit allen User Storys.
 
 
