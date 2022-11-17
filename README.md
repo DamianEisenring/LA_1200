@@ -7,35 +7,35 @@ Müller, Mileti, Frey, Eisenring
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   |                                                              |
-| 17.11.2022      | 1.0.0   |Unser Code kann Vokabeln abfragen und speichern, welche falsch und richtig eingegeben wurden. Die Falschen Vokabeln werden erneut abgefragt, bis man alles richtig hatte.                                                             |
+| 17.11.2022      | 1.0.0   |Unser Code kann Vokabeln abfragen und speichern, welche falsch und richtig eingegeben wurden. Die falschen Vokabeln werden erneut abgefragt, bis man alles richtig hatte.                                                             |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Wir programmieren ein Programm in welchem man Vokabeln lernen kann in C#
+Wir programmieren ein Programm, in welchem man Vokabeln lernen kann in C#
 
-### 1.2 User Stories
+### 1.2 User Storys
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |muss |Funktional|Als User möchte ich Wörter eingeben können, dass ich die Wörter die ich Lernen will abfragen kann.|
+| 1    |muss |Funktional|Als User möchte ich Wörter eingeben können, dass ich die Wörter, die ich Lernen will, abfragen kann.|
 | 2    |  muss | Funktional | Als User möchte ich meine Wörter abfragen können|
-| 3   |  muss | Funktional | Als Computer möchte ich Fehler(Formatfehler) erkennen können, damit ich es anzeigen kann|
+| 3   |  muss | Funktional | Als Computer möchte ich Fehler (Formatfehler) erkennen können, damit ich es anzeigen kann|
 | 4    | muss| Funktional  |Als Benutzer möchte ich die falsch eingegebenen Wörter kennen, dass ich sie nochmals lernen kann.|
-| 5 |kann |Qualität      | Als Benutzer möchte ich die Wörter mehrmalls lernen können, dass ich mir es besser merken kann.                                |
-| 6 |kann|Qualität|Als ein Benutzer möchte ich Wissen wie viele Wörter ich falsch hatte, dass ich weiss wie viel ich noch zu Lernen habe                 |
+| 5 |kann |Qualität      | Als Benutzer möchte ich die Wörter mehrmals lernen können, dass ich mir es besser merken kann.                                |
+| 6 |kann|Qualität|Als ein Benutzer möchte ich wissen, wie viele Wörter ich falsch hatte, dass ich weiss, wie viel ich noch zu Lernen habe                 |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|1.1|User will die Wörter die er Lernen will eingeben|Gibt alle Wörter ein|Speichert die Wörter und Fragt sie ab. |
-|2.1|User will Wörter eingebn|Gibt Wörter ein|Fragt die Wörter ab.|
-|3.1|User will wörter eingeben|gibt die ziffer "1" ein|Programm gibt eine Fehlermeldung aus|
+|1.1|User will die Wörter, die er lernen will, eingeben|Gibt alle Wörter ein|Speichert die Wörter und fragt sie ab. |
+|2.1|User will Wörter eingeben|Gibt Wörter ein|Fragt die Wörter ab.|
+|3.1|User will Wörter eingeben|gibt die Ziffer "1" ein|Programm gibt eine Fehlermeldung aus|
 |4.1|User ist am Wörter lernen|Gibt ein Wort falsch ein|Programm gibt eine Meldung aus, dass das Wort falsch war und dass das Wort erneut abgefragt wird|
-|5.1|User hat alle Wörter bereits durchgelernt|Benutzer gibt ein, dass er die Wörter erneut lernen will|Programm fragt die eingegebenen Wörter erneut ab|
-|6.1|User ist am Wörter lernen|Gibt weiterhin Wörter ein |bekommt einen Anzeige, wie viele Wörter er noch lernen muss|
+|5.1|User hat alle Wörter bereits durch gelernt|Benutzer gibt ein, dass er die Wörter erneut lernen will|Programm fragt die eingegebenen Wörter erneut ab|
+|6.1|User ist am Wörter lernen|Gibt weiterhin Wörter ein |bekommt eine Anzeige, wie viele Wörter er noch lernen muss|
 
 ### 1.4 Diagramme
 ![pap](https://user-images.githubusercontent.com/111043950/201072346-345bd0a3-9232-48e0-a1f2-2c1266d10b3b.png)
@@ -56,7 +56,7 @@ Total: 450 min / 7h 30 min
 
 ## 3 Entscheiden
 
-Wir habe uns entschieden alle User Stories zu machen.
+Wir haben uns entschieden, alle User Storys zu machen.
 
 ## 4 Realisieren
 
@@ -83,7 +83,9 @@ Wir habe uns entschieden alle User Stories zu machen.
 | 5.1  |  17.11     |   funktioniert      |  Jan Frey     |
 | 6.1  |  17.11     |   funktioniert      |  Damian Eisenring    |
 
-Wir konnten alles so Programmieren, wie wir es wollten und das Programm funktioniert mit allen User Stories.
+###Fazit
+
+Wir konnten alles so Programmieren, wie wir es wollten und das Programm funktioniert mit allen User Storys.
 
 
 ## 6 Auswerten
