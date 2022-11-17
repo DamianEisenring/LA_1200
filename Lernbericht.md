@@ -52,6 +52,8 @@ In der Schule war es immer einfacher einander zu organisieren, somit waren wir d
 
 #### Was lief nicht gut?
 
-👎 und etwas, was nicht gut lief.
+Im Homeschooling waren wir schlecht vorbereitet und hatten somit viel Zeit verloren uns zu organisieren, somit verloren wir viel Zeit in der Realisierenphase.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**:
+
+Nächstes mal müssen wir uns vor dem Homeschooling besser organisieren, dass wir auch pünktlich alle im gleichem Anruf sind und beginnen können zu arbeiten.
