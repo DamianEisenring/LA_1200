@@ -1,5 +1,7 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+
+Flamingo
+Eisenring, Mileti, Frey, Müller
 
 ## Einleitung
 
