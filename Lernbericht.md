@@ -42,7 +42,7 @@ Ich habe eine Liste, mit Deutschen Wörtern und deren Übersetzung ins Englische
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Wir haben einem Laien erklärt, was eine Foreach Schleife ist und wie und wann sie verwendet wird.
 
 # Reflexion zum Arbeitsprozess
 
