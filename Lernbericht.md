@@ -48,12 +48,13 @@ Wir haben einem Laien erklärt, was eine Foreach Schleife ist und wie und wann s
 # Reflexion zum Arbeitsprozess
 
 #### Was lief gut?
+
 In der Schule war es immer einfacher einander zu organisieren, somit waren wir dann auch immer produktiver und konnten somit auch mehr bereits in der Schule erreichen.
 
 #### Was lief nicht gut?
 
-Im Homeschooling waren wir schlecht vorbereitet und hatten somit viel Zeit verloren uns zu organisieren, somit verloren wir viel Zeit in der Realisierenphase.
+Im Homeschooling waren wir schlecht vorbereitet und hatten somit viel Zeit verloren uns zu organisieren, somit verloren wir viel Zeit in der Realisieren-Phase.
 
 **VBV**:
 
-Nächstes mal müssen wir uns vor dem Homeschooling besser organisieren, dass wir auch pünktlich alle im gleichem Anruf sind und beginnen können zu arbeiten.
+Nächstes Mal müssen wir uns vor dem Homeschooling besser organisieren, dass wir auch pünktlich alle im gleichen Anruf sind und beginnen können zu arbeiten.
