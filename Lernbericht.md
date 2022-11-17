@@ -36,6 +36,7 @@ Ich habe eine Liste, mit Deutschen Wörtern und deren Übersetzung ins Englische
         }
 ```
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/111045919/202412732-4cae6b4e-b9ea-4411-8658-94bcae59a71f.gif)
 
 
 
@@ -46,7 +47,10 @@ Wir haben einem Laien erklärt, was eine Foreach Schleife ist und wie und wann s
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+#### Was lief gut?
+In der Schule war es immer einfacher einander zu organisieren, somit waren wir dann auch immer produktiver und konnten somit auch mehr bereits in der Schule erreichen.
+
+#### Was lief nicht gut?
 
 👎 und etwas, was nicht gut lief.
 
