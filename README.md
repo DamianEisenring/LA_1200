@@ -89,7 +89,6 @@ Wir konnten alles so Programmieren, wie wir es wollten und das Programm funktion
 
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Link](https://github.com/DamianEisenring/LA_1200/blob/main/Lernbericht.md)
 
 
