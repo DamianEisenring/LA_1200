@@ -84,6 +84,7 @@ Wir habe uns entschieden alle User Stories zu machen.
 | 6.1  |  17.11     |   funktioniert      |  Damian Eisenring    |
 
 ####Fazit
+
 Wir konnten alles so Programmieren, wie wir es wollten und das Programm funktioniert mit allen User Stories.
 
 
