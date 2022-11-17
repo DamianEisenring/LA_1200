@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\damia\\.nuget\\packages\\": {}
+    "C:\\Users\\janfr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damia\\source\\repos\\Vokabeltrainer\\Vokabeltrainer.csproj",
+      "projectUniqueName": "C:\\Users\\janfr\\OneDrive - Alte Kantonsschule Aarau\\Desktop\\Vokabeltrainer\\Vokabeltrainer.csproj",
       "projectName": "Vokabeltrainer",
-      "projectPath": "C:\\Users\\damia\\source\\repos\\Vokabeltrainer\\Vokabeltrainer.csproj",
-      "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damia\\source\\repos\\Vokabeltrainer\\obj\\",
+      "projectPath": "C:\\Users\\janfr\\OneDrive - Alte Kantonsschule Aarau\\Desktop\\Vokabeltrainer\\Vokabeltrainer.csproj",
+      "packagesPath": "C:\\Users\\janfr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\janfr\\OneDrive - Alte Kantonsschule Aarau\\Desktop\\Vokabeltrainer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\janfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

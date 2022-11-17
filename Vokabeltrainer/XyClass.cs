@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vokabeltrainer
+namespace VocabularyTrainer
 {
-    public class XyClass
+    public class practice
     {
-        public static void Wörterabfrage()
+        public static void WordRequest()
         {
-            int i = 0;
-            int l = 0;
+            int wordsRight = 0;
+            int wordsWrong = 0;
             List<string> FslWörter = new List<string>();
-            string weitermachen;
+            string userInput;
 
             try
             {
@@ -30,14 +30,14 @@ namespace Vokabeltrainer
                         Console.WriteLine("-----");
                         Console.WriteLine("Deutscheswort: " + user[0]);
                         Console.Write("Fremdwort: ");
-                        string eingabe = Console.ReadLine();
-                        if (eingabe == user[1])
+                        string input = Console.ReadLine();
+                        if (input == user[1])
                         {
                             Console.ForegroundColor = ConsoleColor.Green;
                             Console.WriteLine("Richtig");
                             Console.ForegroundColor = ConsoleColor.White;
                             Console.ReadKey();
-                            i++;
+                            wordsRight++;
                         }
                         else
                         {
@@ -45,21 +45,21 @@ namespace Vokabeltrainer
                             Console.WriteLine("Falsch");
                             Console.ForegroundColor = ConsoleColor.White;
                             Console.ReadKey();
-                            l++;
+                            wordsWrong++;
                             FslWörter.Add(user[1]);
 
                         }
 
                     }
-                    Console.WriteLine("Richtige: " + i + " Falsche: " + l);
+                    Console.WriteLine("Richtige: " + wordsRight + " Falsche: " + wordsWrong);
 
 
                     Console.WriteLine("Hier sind die immer noch zu lernenden Wörter:");
 
-                    foreach (var falsch in FslWörter)
+                    foreach (var wrong in FslWörter)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine(falsch);
+                        Console.WriteLine(wrong);
                         Console.ForegroundColor = ConsoleColor.White;
                     }
                     Console.ReadKey();
@@ -68,14 +68,14 @@ namespace Vokabeltrainer
                     do
                     {
                         Console.Write("Möchtest du es nochmal Lernen?[Ja/Nein]");
-                        weitermachen = Console.ReadLine();
-                        if (weitermachen != "Ja" || weitermachen != "Nein")
+                        userInput = Console.ReadLine();
+                        if (userInput != "Ja" || userInput != "Nein")
                         {
                             Console.WriteLine("Sie müssen Ja oder Nein eingeben");   
                         }
 
-                    } while (weitermachen != "Ja" && weitermachen != "Nein");
-                } while (weitermachen == "Ja");
+                    } while (userInput != "Ja" && userInput != "Nein");
+                } while (userInput == "Ja");
 
 
 

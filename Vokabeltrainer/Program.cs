@@ -1,18 +1,18 @@
 ﻿using System;
-using static Vokabeltrainer.XyClass;
-using static Vokabeltrainer.Begrüssung;
-using static Vokabeltrainer.Verabschiedung;
+using static VocabularyTrainer.practice;
+using static VocabularyTrainer.greeting;
+using static VocabularyTrainer.goodbye;
+using System.Security.Principal;
 
-
-namespace Vokabeltrainer
+namespace VocabularyTrainer
 {
     class programm
     {
         static void Main(string[] args)
         {
-            Willkommen();
-            Wörterabfrage();
-            Ade();
+            welcome();
+            WordRequest();
+            bye();
         }
     }
 }

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vokabeltrainer
+namespace VocabularyTrainer
 {
-    internal class Verabschiedung
+    internal class goodbye
     {
-        public static void Ade()
+        public static void bye()
         {
             Console.Clear();
             Console.WriteLine("Vielen dank fürs benutzen unseres Vokabeltrainers");
